@@ -1,0 +1,28 @@
+<p class="b" id="x"></p>
+<p class="b" id="y"></p>
+<p class="b" id="z"></p>
+<style>
+  * {
+    margin: 0;
+    background: #62306D
+  }
+  .b {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 50% 50% 0 0;
+    background: #F7EC7D
+  }
+  #x {
+    transform: rotate(180deg) translateX(150px)
+  }
+  #y {
+    margin-top: -50px
+  }
+  #z {
+    transform: rotate(180deg) translateX(-50px)
+  }
+</style>

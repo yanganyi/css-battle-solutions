@@ -1,0 +1,1 @@
+<div id="r"><div id="c"><style>*{background:#6592CF}#r{height:50vh;width:75vw;background:#243D83;margin:75px 42px;overflow:hidden}#c{width:53q;height:53q;background:#EEB850;border-radius:50%;margin:53q auto;box-shadow:0 0 0 53q#243D83,0 0 0 25vw#6592CF

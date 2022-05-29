@@ -1,0 +1,1 @@
+<p class="b"id="x"><p class="b"id="y"><p class="b"id="z"><style>*{margin:0;background:#62306D}.b{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:25vw;height:25vw;border-radius:50% 50% 0 0;background:#F7EC7D}#x{transform:rotate(180deg)translateX(50vh)}#y{margin-top:-53q}#z{transform:rotate(180deg)translateX(-53q

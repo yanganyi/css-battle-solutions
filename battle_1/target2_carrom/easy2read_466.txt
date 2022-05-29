@@ -1,0 +1,32 @@
+<div id="a"></div>
+<div id="b"></div>
+<div id="c"></div>
+<div id="d"></div>
+<style>
+  * {
+    background: #62374e;
+    margin: 0;
+  }
+  div {
+    width: 50px;
+    height: 50px;
+    background: #fdc57b;
+    display: inline-block;
+  }
+  #a {
+    margin-top: 50px;
+    margin-left: 50px
+  }
+  #b {
+    margin-top: 50px;
+    margin-left: 196px;
+  }
+  #c {
+    margin-top: 96px;
+    margin-left: 50px;
+  }
+  #d {
+    margin-top: 96px;
+    margin-left: 196px;
+  }
+</style>
