@@ -1,0 +1,45 @@
+<div x>
+  <div a></div>
+  <div b></div>
+  <div a></div>
+  <div b></div>
+  <div a></div>
+  <div b></div>
+  <div a></div>
+</div>
+<div y></div>
+<div z></div>
+<style>
+  body {
+    background: #6592CF;
+    margin: 0
+  }
+  div[x] {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px
+  }
+  div[a], div[b] {
+    width: 20px;
+    height: 110px;
+    background: #6592CF;
+    border-radius: 20px
+  }
+  div[a] {
+    background: #060F55
+  }
+  div[y] {
+    height: 100px;
+    background: #060F55;
+    width: 140px;
+    border-radius: 0 0 100px 100px;
+    margin: -10px auto 0
+  }
+  div[z] {
+    width: 20px;
+    height: 51px;
+    background: #060F55;
+    margin: -1px auto 0
+  }
+</style>
+  
