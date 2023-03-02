@@ -1,0 +1,1 @@
+<p a><p b><p c><p d><style>body{margin:0;background:#222730}p{position:absolute}p[a]{background:#4CAAB3;height:150;width:400;top:59}p[b]{background:#222730;height:250;width:250;left:75;top:9}p[c]{background:#4CAAB3;height:150;width:150;top:59;left:125}p[b],p[c]{transform:rotate(45deg);}p[d]{height:50;width:50;background:#393E46;top:109;left:175;border-radius:50%}

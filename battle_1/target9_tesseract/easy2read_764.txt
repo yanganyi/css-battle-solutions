@@ -1,0 +1,42 @@
+<div class="bg-rectangle"></div>
+<div class="rotate dark-square"></div>
+<div class="rotate light-square"></div>
+<div class="circle"></div>
+<style>
+  body {
+    background: #222730;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+  .bg-rectangle {
+    width: 100px;
+    height: 100px;
+    background: #4CAAB3;
+    width: 400px;
+    height: 150px;
+  }
+
+  .rotate {
+    position: absolute;
+    transform: rotate(45deg);
+  }
+  .dark-square {
+    background: #222730;
+    width: 250px;
+    height: 250px;
+  }
+  .light-square {
+    background: #4CAAB3;
+    width: 150px;
+    height: 150px;
+  }
+  .circle {
+    background: #393E46;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border-radius: 50%;
+  }
+</style>
